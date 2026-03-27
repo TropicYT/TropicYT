@@ -1,16 +1,57 @@
-## Hi there 👋
+<div align="center">
+  
+<img src="https://github-readme-stats-fast.vercel.app/api?username=TropicYT&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru" />
 
-<!--
-**TropicYT/TropicYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TropicYT&theme=bear&layout=compact&hide_border=true&locale=ru" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+
+### experienced backend developer
+
+automation • bots • infrastructure • reverse engineering
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,lua,js,ts,nodejs,linux,docker,nginx,git,github,redis,postgres,vscode" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 Activity
+
+<img src="https://streak-stats.demolab.com?user=TropicYT&theme=dark&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=TropicYT&theme=darkhub&no-frame=true&margin-w=5" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 Links
+
+[Website](https://tropic.website) • [Skills](https://tropic.website/skills)
+
+</div>
