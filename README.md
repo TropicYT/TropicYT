@@ -35,7 +35,7 @@ automation • bots • infrastructure • reverse engineering
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/TropicYT/TropicYT/output/snake.svg"/>
+<img src="https://raw.githubusercontent.com/TropicYT/TropicYT/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
