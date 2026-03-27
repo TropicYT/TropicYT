@@ -22,7 +22,7 @@ automation • bots • infrastructure • reverse engineering
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,lua,js,ts,nodejs,linux,docker,nginx,git,github,redis,postgres,vscode" />
+<img src="https://skillicons.dev/icons?i=python,lua,js,ts,nodejs,linux,docker,nginx,git,github,redis,postgres,bash,vscode" />
 
 </div>
 
@@ -43,6 +43,16 @@ automation • bots • infrastructure • reverse engineering
 ## 🏆 Achievements
 
 <img src="https://github-profile-trophy.vercel.app/?username=TropicYT&theme=darkhub&no-frame=true&margin-w=5" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/TropicYT/TropicYT/output/snake.svg" />
 
 </div>
 
